@@ -17,32 +17,32 @@ t.speed('slow')
 t.bgcolor('Dodger blue')
 #feet
 t.goto(-100,-150)
-rectangle(50,20,'blue')
+rectangle(50,20,'Aquamarine')
 t.goto(-30,-150)
-rectangle(50,20,'blue')
+rectangle(50,20,'Aquamarine')
 t.goto(-25,-50)
-rectangle(15,100,'grey')
+rectangle(15,100,'LemonChiffon')
 t.goto(-55,-50)
-rectangle(-15,100,'grey')
+rectangle(-15,100,'LemonChiffon')
 #body
 t.goto(-90,100)
-rectangle(100,150,'red')
+rectangle(100,150,'Deep pink')
 #arms
 t.goto(-150,70)
-rectangle(60,15,'grey')
+rectangle(60,15,'Misty Rose')
 t.goto(-150,110)
-rectangle(15,40,'grey')
+rectangle(15,40,'Misty Rose')
 
 t.goto(10,70)
-rectangle(60,15,'grey')
+rectangle(60,15,'Misty Rose')
 t.goto(55,110)
-rectangle(15,40,'grey')
+rectangle(15,40,'Misty Rose')
 #neck
 t.goto(-50,120)
-rectangle(15,20,'grey')
+rectangle(15,20,'Light Blue')
 #head
 t.goto(-85,170)
-rectangle(80,50,'red')
+rectangle(80,50,'Peach Puff')
 #eyes
 t.goto(-60,160)
 rectangle(30,10,'white')
@@ -55,4 +55,3 @@ t.goto(-65,135)
 rectangle(40,5,'black')
 
 t.hideturtle()
-
